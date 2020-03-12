@@ -1,3 +1,7 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
 .App {
     text-align: center;
 }
@@ -47,30 +51,6 @@ button {
 }
 
 
-/* .btns_initial {
-    display: flex;
-} */
-
-
-/* .btn_initial {
-    font-size: 20px;
-    font-family: 'Dosis', sans-serif;
-    background-color: #A81916;
-    color: white;
-    width: 120px;
-    height: 2.5rem;
-    margin: 50px;
-    margin-bottom: -30px;
-    cursor: pointer;
-    border: none;
-    border-radius: 0.9375rem;
-    -webkit-border-radius: 0.9375rem;
-    -moz-border-radius: 0.9375rem;
-    -ms-border-radius: 0.9375rem;
-    -o-border-radius: 0.9375rem;
-} */
-
-
 /* Botones de página de inicio */
 
 .btn-danger {
@@ -94,28 +74,3 @@ body {
     line-height: 25px;
 }
 
-.orden {
-    background-color: #A81916 !important;
-    border-radius: 20px;
-}
-
-.order,
-.desayuno,
-.almuerzo {
-    font-family: 'Bellota', cursive;
-}
-
-h5 {
-    font-family: 'Bellota', cursive;
-}
-
-.breakfast_menu,
-.lunch_menu,
-.accompaniment,
-.drink {
-    font-family: 'Quicksand', sans-serif;
-    border-radius: 10px;
-    background-color: black;
-    color: white;
-    border: none;
-}
