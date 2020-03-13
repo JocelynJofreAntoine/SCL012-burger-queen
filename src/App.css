@@ -65,12 +65,24 @@ button {
     -o-border-radius: 0.9375rem;
 }
 
-body {
-    background-color: black;
+.orden {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-color: rgb(172, 62, 62);
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255) !important;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
 }
 
-.container {
-    padding-top: 2rem;
-    line-height: 25px;
+.titles {
+    font-size: 40px;
 }
 
+.agregar {
+    color: white;
+    background-color: rgb(172, 62, 62);
+}
